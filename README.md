@@ -1,6 +1,6 @@
 # ISS-MSI: Illumination Spectrum Estimation for Multispectral Images via Surface Reflectance Modeling and Spatial-Spectral Feature Generation
 
-This repository contains the implementation of "[Illumination Spectrum Estimation for Multispectral Images via Surface Reflectance Modeling and Spatial-Spectral Feature Generation]" (CVPR 2025).
+This repository contains the implementation of "__Illumination Spectrum Estimation for Multispectral Images via Surface Reflectance Modeling and Spatial-Spectral Feature Generation__" (CVPR 2025).
 
 ## Overview
 
